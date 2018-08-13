@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalSMS</string>
+    <string-array name="Message_senders">
+        <item>Choose sender</item>
+        <item>Airtel</item>
+        <item>Paytm</item>
+        <item>Axis Bank</item>
+        <item></item>
+    </string-array>
+</resources>
